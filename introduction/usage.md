@@ -119,4 +119,4 @@ Web控制台连接视图
 
 ![webui-connection.png](./webui-connection.png)
 
-[继续更多的例子](https://docs.ipfs.io/guides/examples/)
+[继续更多的例子](../examples/basic-examples.md)

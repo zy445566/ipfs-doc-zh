@@ -26,5 +26,6 @@
     * [初始化存储库](./introduction/usage.md#初始化存储库)
     * [连接其它ipfs](./introduction/usage.md#连接其它ipfs)
     * [web控制台](./introduction/usage.md#web控制台)
-
+* [基本的例子](./examples/basic-examples.md#基本的例子)
+    * [简单的JS应用](./examples/basic-examples.md#简单的JS应用)
 
