@@ -17,7 +17,7 @@
 ## 简单的JS应用
 这些是通过IPFS部署的简单的小“JS”应用程序。它们是简单的实用程序，演示了如何构建js应用程序并通过IPFS部署它们。
 
-[查看器的例子](https://github.com/ipfs/website/tree/master/content/docs/examples/example-viewer) - [例子](https://ipfs.io/docs/examples/example-viewer/example#./home/readme.md)
-[markdown渲染器](https://github.com/ipfs/website/tree/master/content/docs/examples/markdown-viewer) - [例子](https://ipfs.io/docs/examples/markdown-viewer/mdown#./sample.md)
-[一个js视频播放器](https://github.com/ipfs/website/tree/master/content/docs/examples/play) - [例子](https://ipfs.io/docs/examples/play/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXse)
-[一个二维码渲染器](https://github.com/ipfs/website/tree/master/content/docs/examples/qr-render) - [例子](https://ipfs.io/docs/examples/qr-render/qr#enter%20text%20here)
+* [查看器的例子](https://github.com/ipfs/website/tree/master/content/docs/examples/example-viewer) - [例子](https://ipfs.io/docs/examples/example-viewer/example#./home/readme.md)
+* [markdown渲染器](https://github.com/ipfs/website/tree/master/content/docs/examples/markdown-viewer) - [例子](https://ipfs.io/docs/examples/markdown-viewer/mdown#./sample.md)
+* [一个js视频播放器](https://github.com/ipfs/website/tree/master/content/docs/examples/play) - [例子](https://ipfs.io/docs/examples/play/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXse)
+* [一个二维码渲染器](https://github.com/ipfs/website/tree/master/content/docs/examples/qr-render) - [例子](https://ipfs.io/docs/examples/qr-render/qr#enter%20text%20here)
