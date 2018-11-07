@@ -14,7 +14,7 @@
 
 [下载适用于您的平台的IPFS](https://dist.ipfs.io/#go-ipfs) 
 
-### Mac OS X和Linux
+### MacOS和Linux
 
 下载后，解压缩归档文件，然后使用脚本将ipfs二进制文件移动到可执行文件$PATH中的某个位置install.sh：
 ```sh
@@ -35,7 +35,7 @@ USAGE:
 
 恭喜！您现在在计算机上安装了有效的IPFS。
 
-[一般用法](https://docs.ipfs.io/introduction/usage/)   
+[一般用法](./usage.md)   
 
 ### windows
 下载后，解压缩存档，然后移动ipfs.exe 到您的存档中%PATH%。
@@ -106,11 +106,11 @@ Installation complete!
 
 `请注意，最新的可用版本可能不稳定（即表单中的候选版本vX.X.X-rcX）。因此，建议指定要安装的版本，例如：ipfs-update install v0.4.6。`
 
-## 从Source构建
+## 使用源码构建
 `警告：过去您可以使用安装IPFS go get。这不再起作用了！`
 如果需要，还可以从源代码构建IPFS。如果您使用的是Mac OS X或Linux，请查看[自述文件](https://github.com/ipfs/go-ipfs#build-from-source)以获取安装说明。如果您在Windows上，请查看[此文档](https://github.com/ipfs/go-ipfs/blob/master/docs/windows.md)以获取说明。
 
-### 升级IPFS
+### 使用ipfs-update升降级
 ipfs升级（和降级）可能涉及[fs-repo-migrations](https://dist.ipfs.io/#fs-repo-migrations)工具执行的存储库升级过程 。
 
 #### 使用ipfs-update升级
