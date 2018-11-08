@@ -1,5 +1,5 @@
 # 基本用法
-如果尚未执行此操作，请[安装IPFS](https://docs.ipfs.io/introduction/install)。
+如果尚未执行此操作，请[安装IPFS](./install.md)。
 
 在本教程中，如果您有任何疑问，请随时在https://discuss.ipfs.io/或chat.freenode.net上的#ipfs中询问。
 

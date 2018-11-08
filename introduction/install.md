@@ -23,7 +23,7 @@ $ cd go-ipfs
 $ ./install.sh
 ```
 
-测试出来：
+测试一下：
 
 ```sh
 $ ipfs help
@@ -125,7 +125,7 @@ ipfs-update install将fs-repo-migrations在安装新版本或旧ipfs版本时（
 * 运行ipfs daemon。
 当需要存储库迁移时，ipfs将通知用户，下载并安装fs-repo-migrations 并执行升级。如果希望过程无人值守，请使用--migrate 标志启动守护程序。
 
-也可以通过fs-repo-migrations 从https://dist.ipfs.io/#fs-repo-migrations下载最新版本并 按照[这些说明](https://github.com/ipfs/fs-repo-migrations/blob/master/run.md)手动运行迁移。
+也可以通过fs-repo-migrations 从 https://dist.ipfs.io/#fs-repo-migrations 下载最新版本并 按照[这些说明](https://github.com/ipfs/fs-repo-migrations/blob/master/run.md)手动运行迁移。
 
 ## 故障排除
 ### 帮助
