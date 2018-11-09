@@ -12,9 +12,9 @@
 # 如何启用
 使用ipfs-swarm-key-gen生成预共享密钥：
 ```sh
-# 可能会出现无法成功的现象可以把main.go单独运行
-# git clone https://github.com/Kubuxu/go-ipfs-swarm-key-gen
-# go run ./go-ipfs-swarm-key-gen/ipfs-swarm-key-gen/main.go > ~/.ipfs/swarm.key
+# node用户可使用：
+# npm install node-ipfs-swarm-key-gen
+# node-ipfs-swarm-key-gen > ~/.ipfs/swarm.key
 go get github.com/Kubuxu/go-ipfs-swarm-key-gen/ipfs-swarm-key-gen
 ipfs-swarm-key-gen > ~/.ipfs/swarm.key
 ```

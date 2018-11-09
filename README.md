@@ -30,5 +30,5 @@
     * [简单的JS应用](./examples/basic-examples.md#简单的JS应用)
 
 # 特别翻译
-    * [私有网络集群](./experimental/private-networks.md)
+* [私有网络集群](./experimental/private-networks.md)
 
