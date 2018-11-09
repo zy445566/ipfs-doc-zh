@@ -7,12 +7,12 @@
 试验性（请勿在生产环境使用，但由于我觉得十分有必要所以翻译了）
 
 # 在版本中
-master，0.4.7
+master，0.4.7
 
 # 如何启用
 使用ipfs-swarm-key-gen生成预共享密钥：
 ```sh
-# node用户可使用：
+# node用户可使用：
 # npm install node-ipfs-swarm-key-gen
 # node-ipfs-swarm-key-gen > ~/.ipfs/swarm.key
 go get github.com/Kubuxu/go-ipfs-swarm-key-gen/ipfs-swarm-key-gen
