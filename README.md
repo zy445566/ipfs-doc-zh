@@ -32,3 +32,8 @@
 # 特别翻译
 * [私有网络集群](./experimental/private-networks.md)
 
+# 其它
+* [ipfs基本介绍](https://github.com/zy445566/myBlog/blob/master/20181113ipfs/20181113ipfs-base/README.md)
+* [下载一个ipfs桌面客户端(支持win，mac，linux)](https://github.com/zy445566/ipfs-desktop/releases)
+* [针对docker的ipfs服务](https://github.com/zy445566/ipfs-docker)
+
