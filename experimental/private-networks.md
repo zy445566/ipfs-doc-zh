@@ -13,7 +13,7 @@ master，0.4.7
 使用ipfs-swarm-key-gen生成预共享密钥：
 ```sh
 # node用户可使用：
-# npm install node-ipfs-swarm-key-gen
+# npm install node-ipfs-swarm-key-gen -g
 # node-ipfs-swarm-key-gen > ~/.ipfs/swarm.key
 go get github.com/Kubuxu/go-ipfs-swarm-key-gen/ipfs-swarm-key-gen
 ipfs-swarm-key-gen > ~/.ipfs/swarm.key
